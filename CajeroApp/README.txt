@@ -1,0 +1,1 @@
+Aplicación realizada como prueba o "coding interview" de ingreso a una entidad financiera donde se pide, mediante consola, una clase/objeto cuenta bancaria donde se pueda solicitar el estado de cuenta, realizar depósitos y extracciones de dinero, y realizar transferencias a una agenda de contactos.
